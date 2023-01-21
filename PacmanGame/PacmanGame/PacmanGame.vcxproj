@@ -130,10 +130,12 @@
     <ClCompile Include="Map.cpp" />
     <ClCompile Include="NbrPlayerErr.cpp" />
     <ClCompile Include="PacmanGame.cpp" />
+    <ClCompile Include="Player.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Map.h" />
     <ClInclude Include="NbrPlayerErr.h" />
+    <ClInclude Include="Player.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
